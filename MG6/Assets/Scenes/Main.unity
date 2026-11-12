@@ -5739,7 +5739,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Rat
   _shrinkAmount: 0.75
-  _spawnAmount: 5
+  _spawnAmount: 10
   _ratPrefab: {fileID: 3510737898755027672, guid: b93027a2791944211bda80bb72dd3492, type: 3}
   _explosionPrefab: {fileID: 7990144086682191251, guid: e6ff65a3548854453ab19c086120cb07, type: 3}
 --- !u!212 &5964452212859149044
